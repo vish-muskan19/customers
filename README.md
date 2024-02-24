@@ -18,7 +18,7 @@ Entities are inspired by the real world entities that can use the applications
 - UserID (Primary Key), FullName, Email, Password
 
 2. Customer having attributes:
-CustomerID (Primary Key), FirstName, LastName, Address, City, state, Street, Image, Email, Phone No, createAt
+- CustomerID (Primary Key), FirstName, LastName, Address, City, state, Street, Image, Email, Phone No, createAt
 
 ### Relationships Between Entities 
 
